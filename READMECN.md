@@ -34,7 +34,7 @@ python main.py
 ```
 运行后内容会在在 resource/result/ 文件夹里（可修改config.ini更改位置）。
 
-333 第四步：生成能看的网页
+### 第四步：生成能看的网页
 
 ```Bash
 python report.py
